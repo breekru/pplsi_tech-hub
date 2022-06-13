@@ -36,6 +36,7 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     border: 2px solid #d1d3df;
+    width: 20%;
   }
   
   a:hover, a:active {
