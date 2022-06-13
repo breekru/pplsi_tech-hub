@@ -22,11 +22,24 @@ h2 {
     text-align: center;
 }
 
-p,a {
+p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     color: #737584;
 }
+
+a:link, a:visited {
+    background-color: #9400a1;
+    color: #d1d3df;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #c900d1;
+  }
 
 .center {
     text-align: center;
