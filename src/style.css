@@ -32,6 +32,7 @@ a:link, a:visited {
     background-color: #9400a1;
     font-size: 40px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
     color: #d1d3df;
     padding: 14px 25px;
     text-align: center;
